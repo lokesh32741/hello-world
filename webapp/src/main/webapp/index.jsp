@@ -20,6 +20,10 @@
     <input type="text" placeholder="Enter Lokesh" name="Lokesh" id="Lokesh" required>
     <br>
 
+  <label for="Manisha"><b>Enter Manisha</b></label>
+    <input type="text" placeholder="Enter Manisha" name="Manisha" id="Manisha" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
