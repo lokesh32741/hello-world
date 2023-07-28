@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="Lokesh"><b>Enter Lokesh</b></label>
+    <input type="text" placeholder="Enter Lokesh" name="Lokesh" id="Lokesh" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
